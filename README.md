@@ -1,4 +1,4 @@
-# NodeBB BiliBili Plugin
+# NodeBB babylon gltf Plugin
 
 This NodeBB plugin allows users to show .gltf 3d object in their posts.
 
